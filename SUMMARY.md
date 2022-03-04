@@ -6,3 +6,4 @@
 
 * [註解](basics/zhu-jie.md)
 * [變數](basics/bian-shu.md)
+* [常數](basics/chang-shu.md)
